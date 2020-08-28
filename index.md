@@ -4,36 +4,58 @@
 
 ### Contact
 
+Contrada Angona, s/c, 84025, Eboli, SA, ITALIA
+
 alessandro.dellor@edu.unito.it
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2017 - 2020**
+Master's degree in Physics of Complex Systems
+University of Turin - Department of Physics
+Degree Program Class: LM-17 - PHYSICS
 
-```markdown
-Syntax highlighted code block
+Academic Examinations Taken:
+- Statistical Mechanics
+- Non-equilibrium Statistical Mechanics
+- Introduction to Quantum Computing
+- Introduction to Quantum Information
+- Dinamical Systems
+- Stochastic Processes
+- Methods of Observation and Measurement
+- Non-linear Waves and Turbulence
+- Introduction to Game Theory and Networks
+- Neural Networks
+- Data Mining, Statistical Modeling and Machine Learning
+- Numerical Algorithms for Physics
 
-# Header 1
-## Header 2
-### Header 3
+_Thesis_: Discrete and continuous models of spatial evolutionary games
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**2012 - 2017**
+Bachelor's degree in Physics
+University of Salerno - Department of Physics "E. R. Caianiello"
+Degree Program Class: L-30 - PHYSICS
 
-**Bold** and _Italic_ and `Code` text
+_Thesis_: Lindlblad equation: The Harmonic Oscillator in a Heat Bath
 
-[Link](url) and ![Image](src)
-```
+**2007 - 2012**
+Diploma Scientifico
+Liceo Scientifico “Antonio Gallotta”
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Programming Languages
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lept1/alessandrodellorto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Python
+2. C++
+3. Fortran90
 
-### Support or Contact
+### Markup Languages
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Latex
+2. Tex
+3. MarkDown
+4. Html
+
+### Interests
+
