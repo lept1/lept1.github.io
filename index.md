@@ -1,14 +1,10 @@
-# Alessandro Dell'Orto
-## Master's degree in Physics of Complex Systems
-
-
-### Contact
+## Contact
 
 Contrada Angona, s/c, 84025, Eboli, SA, ITALIA
 
 alessandro.dellor@edu.unito.it
 
-### Education
+## Education
 
 **2017 - 2020**
 Master's degree in Physics of Complex Systems
@@ -44,18 +40,22 @@ Diploma Scientifico
 Liceo Scientifico “Antonio Gallotta”
 
 
-### Programming Languages
+## Programming Languages
 
 1. Python
 2. C++
 3. Fortran90
 
-### Markup Languages
+## Markup Languages
 
 1. Latex
 2. Tex
 3. MarkDown
 4. Html
 
-### Interests
+## Interests
+
+1. Machine Learning 
+2. Numerical Algorithm 
+3. IoT
 
