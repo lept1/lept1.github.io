@@ -29,11 +29,6 @@ tagline:               AD
 # A list of keywords for your blog
 keywords:              [machine learning, game theory, graph theory, neural network, physics, quantum computing]
 
-# A (square) logo for your site.
-# If provided, it will be shown at the top of the sidebar.
-# It also used by the `jekyll-seo-tag` plugin.
-logo:                  []
-
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
@@ -46,33 +41,5 @@ author:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2020. All rights reserved.
-
-# Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
-
-# Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /:num/
-
-
-# Collections
-# ----------------------------------------------------------------------------------------
-
-collections:
-  featured_categories:
-    permalink:         /:name/
-    output:            true
-
-  featured_tags:
-    permalink:         /tag-:name/
-    output:            true
-
-  projects:
-    permalink:         /projects/:path/
-    output:            true
-
-
-# Theme
-# ---------------------------------------------------------------------------------------
 
 theme: jekyll-theme-minimal
