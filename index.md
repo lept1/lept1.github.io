@@ -4,9 +4,8 @@ I took my Master degree in Physiscs of Complex Systems at University of Torino i
 
 ## Contact
 
-Contrada Angona, s/c, 84025, Eboli, SA, ITALIA
-
-alessandro.dellor@edu.unito.it
+[email](mailto:alessandro.dellor@edu.unito.it)
+[LinkedIn](linkedin.com/in/alessandro-dell-orto-9100501b6) 
 
 ## Education
 
