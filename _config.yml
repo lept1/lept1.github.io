@@ -17,24 +17,16 @@ logo: /assets/DellOrto_Alessandro.jpg
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Alessandro Dell'Orto
+#title:                 Alessandro Dell'Orto
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: Physiscs of Complex Systems. Machine Learning. Game Theory. Numerical Methods.
 
-# A shorter description for the sidebar.
-tagline:               AD
-
 # A list of keywords for your blog
 keywords:              [machine learning, game theory, graph theory, neural network, physics, quantum computing]
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author:
-  # Used by `jekyll-feed`:
-  name:                Lept1
-  # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
 
 
 # Add links to the footer.
