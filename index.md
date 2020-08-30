@@ -4,9 +4,9 @@ I took my Master degree in Physiscs of Complex Systems at University of Torino i
 
 ## Contact
 
-[/assets/email.png](mailto:alessandro.dellor@edu.unito.it)
+[<img src=/assets/email.png width="50" height="50">](mailto:alessandro.dellor@edu.unito.it)
 
-[/assets/LinkedIn.png](linkedin.com/in/alessandro-dell-orto-9100501b6) 
+[<img src=/assets/linkedin.png width="50" height="50">](linkedin.com/in/alessandro-dell-orto-9100501b6) 
 
 ## Education
 
