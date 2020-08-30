@@ -1,3 +1,7 @@
+#Alessandro Dell'Orto
+
+I took my Master degree in Physiscs of Complex Systems at University of Torino in July 2020. During these years I developed hard skills in Machine Learning, Game and Network Theory and Numerical Methods. My master thesis focused on modelling evolutionary games on graphs and simulating them numerically.
+
 ## Contact
 
 Contrada Angona, s/c, 84025, Eboli, SA, ITALIA
