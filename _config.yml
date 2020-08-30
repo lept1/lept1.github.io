@@ -21,17 +21,9 @@ title:                 About me
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description: Physiscs of Complex Systems. Machine Learning. Game Theory. Numerical Methods.
+description: Physiscs of Complex Systems
 
 # A list of keywords for your blog
 keywords:              [machine learning, game theory, graph theory, neural network, physics, quantum computing]
-
-# This should be the same author as first entry in `_data/authors.yml`.
-
-
-# Add links to the footer.
-
-# This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
 
 theme: jekyll-theme-minimal
