@@ -6,6 +6,13 @@ I took my Master degree in Physiscs of Complex Systems at University of Torino i
 
 [<img src="/assets/email.png" width="100"/>](mailto:alessandro.dellor@edu.unito.it)  &nbsp;&nbsp;&nbsp;  [<img src="/assets/linkedin.png" width="100"/>](https://www.linkedin.com/in/alessandro-dell-orto-9100501b6/) 
 
+## Work
+
+**2020 - Present**
+
+Application Developer at Accenture SpA
+
+
 ## Education
 
 **2017 - 2020**
@@ -61,10 +68,13 @@ Liceo Scientifico “Antonio Gallotta”
 2. Tex
 3. MarkDown
 4. Html
+5. Xml
 
 ## Interests
 
 1. Machine Learning 
 2. Numerical Algorithm 
 3. IoT
+4. BlockChain
+5. Game Theory
 
