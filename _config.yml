@@ -21,7 +21,7 @@ title:                 About me
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description: Physiscs of Complex Systems
+description: Don't wake me up when I'm coding
 
 # A list of keywords for your blog
 keywords:              [machine learning, game theory, graph theory, neural network, physics, quantum computing]
