@@ -1,10 +1,10 @@
 # Alessandro Dell'Orto
 
-I took my Master degree in Physiscs of Complex Systems at University of Torino in July 2020. During these years I developed hard skills in Machine Learning, Game and Network Theory and Numerical Methods. My master thesis focused on modelling evolutionary games on graphs and simulating them numerically.
+I took my Master degree in Physiscs of Complex Systems at University of Torino in July 2020. During these years I developed hard skills in Machine Learning, Game and Network Theory and Numerical Methods. My master thesis focused on modelling evolutionary games on graphs and simulating them numerically. Now I am an Application Developer at Accenture.
 
 ## Contact
 
-[<img src="/assets/email.png" width="100"/>](mailto:alessandro.dellor@edu.unito.it)  &nbsp;&nbsp;&nbsp;  [<img src="/assets/linkedin.png" width="100"/>](https://www.linkedin.com/in/alessandro-dell-orto-9100501b6/) 
+[<img src="/assets/email.png" width="100"/>](mailto:alessandrodellorto182@gmail.com)  &nbsp;&nbsp;&nbsp;  [<img src="/assets/linkedin.png" width="100"/>](https://www.linkedin.com/in/alessandro-dell-orto-9100501b6/) 
 
 ## Work
 
