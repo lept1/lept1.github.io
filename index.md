@@ -90,20 +90,26 @@ Liceo Scientifico “Antonio Gallotta”
 
 ## Projects
 
-### Kaggle Natural Language Inference (in team) [ongoing] (march 2021)
 
-Learn something about it
+### SIR and TSIR model on Covid19 data (in team) [ongoing] (june 2021)
 
-### Kaggle Digit Recognizer [ongoing] (march 2021)
+Using SIR and TSIR model to predict covid19 diffusion.
+
+### Kaggle Natural Language Processing with Disaster Tweets (april 2021)
+
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). In this competition, i must predict which Tweets are about real disasters and which one’s aren’t. Here I used:
+1. Feature Importance & RFECV (recursive features elimination with cross validation)
+2. Logistic Regression
+3. Naive Bayes models (Gaussian, Multinomial, Complement)
+4. CountVectorizer
+5. Stemming & Lemming
+
+### Kaggle Digit Recognizer (march 2021)
 
 In this competition, my goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. 
-I want to use:
+I used:
  1. CNN
- 2. Both Tensorflow and Pytorch
-
-### Data Visualization using Tableau (in team) [ongoing] (march 2021)
-
-Some covid19 data on Tableau.
+ 2. Tensorflow
 
 ### Kaggle House Pricing (January 2021)
 
