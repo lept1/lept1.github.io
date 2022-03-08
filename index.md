@@ -1,6 +1,9 @@
 # Alessandro Dell'Orto
 
-I took my Master degree in Physiscs of Complex Systems at University of Torino in July 2020. During these years I developed hard skills in Machine Learning, Game and Network Theory and Numerical Methods. My master thesis focused on modelling evolutionary games on graphs and simulating them numerically. Now I am an Application Developer at Accenture.
+#𝐷𝑎𝑡𝑎𝑆𝑐𝑖𝑒𝑛𝑐𝑒 #𝑀𝑎𝑐ℎ𝑖𝑛𝑒𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 #𝑃𝑦𝑡ℎ𝑜𝑛 #𝑅 #𝑁𝐿𝑃 #𝑃ℎ𝑦𝑠𝑖𝑐𝑠 #𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 #𝐺𝑎𝑚𝑒𝑇ℎ𝑒𝑜𝑟𝑦 #𝑁𝑢𝑚𝑒𝑟𝑖𝑐𝑎𝑙𝑀𝑒𝑡ℎ𝑜𝑑𝑠
+
+Presently I am working as 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙩𝙞𝙨𝙩 𝙖𝙩 𝙋𝙞𝙖𝙯𝙯𝙖 𝘾𝙤𝙥𝙚𝙧𝙣𝙞𝙘𝙤, focusing on the development of NLP & NLU models.
+I took my Master degree in 𝙋𝙝𝙮𝙨𝙞𝙨𝙘𝙨 𝙤𝙛 𝘾𝙤𝙢𝙥𝙡𝙚𝙭 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 at University of Torino in July 2020, where I developed  hard skills in Machine Learning, Game and Network Theory and Numerical Methods. My master thesis focused on modelling evolutionary games on graphs and simulating them numerically.
 
 ## Contact
 
@@ -8,7 +11,10 @@ I took my Master degree in Physiscs of Complex Systems at University of Torino i
 
 ## Work
 
-**2020 - Present**
+**2021 - present**
+Researcher & Data Scientist at Piazza Copernico srl
+
+**2020 - 2021**
 
 Application Developer at Accenture SpA
 
@@ -67,9 +73,10 @@ Liceo Scientifico “Antonio Gallotta”
 ## Programming Languages
 
 1. Python (sklearn, tensorflow, pandas, nltk...)
-2. C++
-3. Fortran90
-4. SQL
+2. R (tidyverse, quanteda, ggplot...)
+3. C++
+4. Fortran90
+5. SQL
 
 ## Markup Languages
 
@@ -91,9 +98,9 @@ Liceo Scientifico “Antonio Gallotta”
 ## Projects
 
 
-### SIR and TSIR model on Covid19 data (in team) [ongoing] (june 2021)
+### Potts Machine Learning (January 2022 - in progress)
+Learning quantum phase transitions through Topological Data Analysis...
 
-Using SIR and TSIR model to predict covid19 diffusion.
 
 ### Kaggle Natural Language Processing with Disaster Tweets (april 2021)
 
