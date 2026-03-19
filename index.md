@@ -4,6 +4,11 @@
 
 ---WIP
 
+|  | ttt2 |
+| - | - |
+| **Text**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum | **Text** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum |
+
+
 ## Contact
 
 [<img src="/assets/email.png" width="100"/>](mailto:alessandrodellorto182@gmail.com)  &nbsp;&nbsp;&nbsp;  [<img src="/assets/linkedin.png" width="100"/>](https://www.linkedin.com/in/alessandro-dell-orto-9100501b6/) 
@@ -11,22 +16,28 @@
 ## Work
 
 **2023 - present**
+
 Data and AI Engineer at BIP Spa
 
+Description: WIP
+
+<br><br>
+
 **2021 - 2023**
+
 Researcher & Data Scientist at Piazza Copernico srl
+
+Description: WIP
+
+<br><br>
 
 **2020 - 2021**
 
 Application Developer at Accenture SpA
 
-**2015 - 2020**
+Description: WIP
 
-Physics and Maths Tutor
-
-**2015**
-
-Physics Tutor at OpenProf.com
+<br><br>
 
 
 ## Education
