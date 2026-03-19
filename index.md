@@ -2,8 +2,7 @@
 
 #𝐷𝑎𝑡𝑎𝑆𝑐𝑖𝑒𝑛𝑐𝑒 #𝑀𝑎𝑐ℎ𝑖𝑛𝑒𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 #𝑃𝑦𝑡ℎ𝑜𝑛 #𝑅 #𝑁𝐿𝑃 #𝑃ℎ𝑦𝑠𝑖𝑐𝑠 #𝑆𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠 #𝐺𝑎𝑚𝑒𝑇ℎ𝑒𝑜𝑟𝑦 #𝑁𝑢𝑚𝑒𝑟𝑖𝑐𝑎𝑙𝑀𝑒𝑡ℎ𝑜𝑑𝑠
 
-Presently I am working as 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙩𝙞𝙨𝙩 𝙖𝙩 𝙋𝙞𝙖𝙯𝙯𝙖 𝘾𝙤𝙥𝙚𝙧𝙣𝙞𝙘𝙤, focusing on the development of NLP & NLU models.
-I took my Master degree in 𝙋𝙝𝙮𝙨𝙞𝙨𝙘𝙨 𝙤𝙛 𝘾𝙤𝙢𝙥𝙡𝙚𝙭 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 at University of Torino in July 2020, where I developed  hard skills in Machine Learning, Game and Network Theory and Numerical Methods. My master thesis focused on modelling evolutionary games on graphs and simulating them numerically.
+---WIP
 
 ## Contact
 
@@ -11,7 +10,10 @@ I took my Master degree in 𝙋𝙝𝙮𝙨𝙞𝙨𝙘𝙨 𝙤𝙛 𝘾𝙤�
 
 ## Work
 
-**2021 - present**
+**2023 - present**
+Data and AI Engineer at BIP Spa
+
+**2021 - 2023**
 Researcher & Data Scientist at Piazza Copernico srl
 
 **2020 - 2021**
@@ -28,6 +30,12 @@ Physics Tutor at OpenProf.com
 
 
 ## Education
+
+**2023 - 2025**
+
+Advanced Master's degree in Cloud and Data Engineer
+
+Politecnico di Milano
 
 **2017 - 2020**
 
@@ -88,59 +96,10 @@ Liceo Scientifico “Antonio Gallotta”
 6. Yaml
 
 ## Interests
-
-1. Machine and Deep Learning 
-2. Numerical Algorithm 
-3. IoT
-4. BlockChain
-5. Game Theory
+---wip
 
 ## Projects
 
-
-### Potts Machine Learning (January 2022 - in progress)
-Learning quantum phase transitions through Topological Data Analysis...
-
-
-### Kaggle Natural Language Processing with Disaster Tweets (april 2021)
-
-The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). In this competition, i must predict which Tweets are about real disasters and which one’s aren’t. Here I used:
-1. Feature Importance & RFECV (recursive features elimination with cross validation)
-2. Logistic Regression
-3. Naive Bayes models (Gaussian, Multinomial, Complement)
-4. CountVectorizer
-5. Stemming & Lemming
-
-### Kaggle Digit Recognizer (march 2021)
-
-In this competition, my goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. 
-I used:
- 1. CNN
- 2. Tensorflow
-
-### Kaggle House Pricing (January 2021)
-
-In this challenge I had to predict the price of the house/flat in Moscow given hundreds of features. I had the occasion to "fight" with features and so developed some skills on:
-  1. Features Reduction/Selection (variancethresold, selectkbest, selectfrommodel, selectpercentile)
-  2. Features Correlation (Spearman and Pearson Correlation Matrix)
-
-### Kaggle Titanic (in team) (december 2020)
-
-In this challenge, the goal is to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). Here, I and my team focused on developing our skills and knowledge on data preprocessing using sklearn and pandas, particularly:
-  1. Data imputation
-  2. Feature Extraction
-  3. Rescaling and Normalizing Data
-  4. One hot Encoding
-  5. Ensemble Learning (boosting)
-Rank: Top 10%
-
-### Kaggle Reddit (April 2020)
-
-The goal of this competition is to predict the gender of these users using their messages and their subscription to the subreddits.
-In this work I had the opportunity to:
-  1. develope my knowledge on Natural Language Processing
-  2. use nltk library
-  3. study and use Naive Bayes Methods
-  4. study and use ensemble learning (bagging)
+---wip
 
 
